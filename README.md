@@ -1,2 +1,3 @@
-# hello-world
-Hi everyone! My name's Kristin and I have a passion for anything computer related. I'm just wanting to introduce myself to the world!
+# **hello-world**
+## Hi everyone! 
+I've loved computers for years and as time goes on, I've realized they're becoming essential to society. By having knowledge of not only version control but of many computer systems allows me to provide for the general public. I hope you guys have a great day!
